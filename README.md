@@ -4,5 +4,5 @@ Neutrino is the node side of a distributed air quality platform. It connects bac
 
 ### TODO
 
-* [] Build logic to get token from database
-* [] Track runtime of each sensor in the database
+* [ ] Build logic to get token from database
+* [ ] Track runtime of each sensor in the database
